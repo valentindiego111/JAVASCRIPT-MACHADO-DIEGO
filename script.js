@@ -25,3 +25,5 @@ num=parseInt(dato);
 document.write(` ${num} <br> `);
 } 
 
+
+
